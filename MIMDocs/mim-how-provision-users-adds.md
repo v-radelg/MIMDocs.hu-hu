@@ -16,7 +16,7 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 01/17/2020
 ms.locfileid: "76256614"
 ---
-# <a name="how-do-i-provision-users-to-ad-ds"></a>Felhasználók kiépítése az AD DS-ben
+# <a name="how-do-i-provision-users-to-ad-ds"></a>Felhasználók kiépítése az AD DS-ben<!--TEST-->
 
 A következőre vonatkozik: Microsoft Identity Manager 2016 SP1 (MIM)
 
