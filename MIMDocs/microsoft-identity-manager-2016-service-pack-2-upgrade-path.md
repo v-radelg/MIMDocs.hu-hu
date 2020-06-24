@@ -18,7 +18,7 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 12/05/2019
 ms.locfileid: "73568054"
 ---
-# <a name="mim-2016-sp2-upgrade--from-forefront-identity--or-microsoft-identity-manager"></a>A webhelyről 2016 SP2 frissítése a Forefront Identity vagy Microsoft Identity Manager
+# <a name="mim-2016-sp2-upgrade--from-forefront-identity--or-microsoft-identity-manager"></a>A webhelyről 2016 SP2 frissítése a Forefront Identity vagy Microsoft Identity Manager<!--test-->
 
 A szervezetek a Microsoft Identity Manager vagy a Forefront Identity Manager korábbi verzióiról Microsoft Identity Manager 2016 SP2-re frissíthetnek.  A cikk minden szakasza egy támogatott frissítési útvonalra terjed ki.
 
